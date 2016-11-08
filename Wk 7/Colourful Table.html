@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <title>Dundas</title>
+    <meta charset='utf-8'>
+  </head>
+  <style type = "text/css">
+    table {
+   margin-left:auto;
+  margin-right:auto;
+   width:50%;
+   border: 1px solid #000000;
+   border-collapse:collapse;
+   }
+   .town {
+    font-weight:bold;
+    padding-bottom:15px;
+        }
+  th { 
+  font-family:MolengoRegular,arial,helvetica,sana-serif;
+  font-weight:bold;
+  width:15%;
+  border: 1px solid #000000; 
+    }
+    
+    td {
+     font-family:MolengoRegular,arial,helvetica,sana-serif;
+     border: 1px solid #000000;
+    text-align:left;
+     }
+   .dayheader {
+   background:#fc6;
+   font-family:MolengoRegular,arial,helvetica,sana-serif;
+     border: 1px solid #000000;
+     border-collapse:collapse;
+       }
+  .days{
+    background:#e0e0e0;
+    width:10%;
+    font-weight:bold;
+     }
+    .sentence{
+     background:#e0e0e0;
+     width:30%;
+    }
+  
+  </style>
+  <body>
+ <table>
+ <caption class = "town">
+   Dundas
+ </caption>
+  <thead>
+   <tr class = "dayheader">
+    <th rowspan = "2">Day</th>
+    <th colspan = "2">Hours</th>
+    </tr>
+    <tr class = "dayheader">
+    <th>Open</th>
+      <th>Close</th>
+       </tr>
+      </thead>
+     <tfoot>
+     <td class = "sentence" colspan="3">Closing hours may vary depending on the time of year</td>
+     </tfoot>
+     <tbody>
+     <tr>
+    <td class = "days">Mon-Thu</td>
+    <td>11am</td>
+     <td>11pm</td>
+       </tr>
+  <tr> 
+   <td class = "days">Fri-Sun</td>
+    <td>11am</td>
+    <td>Midnight</td>
+     </tr>
+   <tr> 
+    <td class = "days">Sun</td> 
+    <td>Noon</td> 
+    <td>11pm</td> 
+      </tr>
+     </tbody>
+   </table>
+  </body>
+</html>
