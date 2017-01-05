@@ -1,0 +1,120 @@
+/* Cool for U Ice Creams-Home */
+
+  #box{
+   border:3px solid #FFFFFF;
+    width:96%;
+   margin-left:auto;
+   margin-right:auto;
+   background-color:#33CCFF;
+    }
+    .heading{
+       background:#FF8C00;
+       width:100%;
+       text-align:center;
+       padding-top:1%;   
+       }
+    h1{
+    font-size:34px;
+    font-weight:bolder;
+    color:#990033;
+    text-align:center;
+    font-family:Arial, Verdana, Helvetica, sans-serif;
+    padding-right:2%;
+    margin-bottom:2%;
+    margin-top:3%;
+     }
+     h2{
+     font-size:28px;
+    font-weight:bolder;
+    color:#3300FF;
+    text-align:left;
+    padding-left:5%;
+    font-family:Arial, Verdana, Helvetica, sans-serif; 
+    margin-top:5%;
+     margin-bottom:3%;
+     }
+      h3{
+     font-size:24px;
+    font-weight:bolder;
+    color:#993333;
+    text-align:center;
+    padding-right:1%;
+    font-family:Arial, Verdana, Helvetica, sans-serif; 
+    margin-bottom:3%;
+      margin-top:13%;
+      padding-top:4%;
+     }
+     .linking{
+    text-align:center;
+    font-size:21px;
+    font-family:Verdana, Arial, Helvetica, sans-serif; 
+     padding-right:2%;
+     margin-top:3%;
+     }
+     .locparagraph{
+       font-family:tahoma, arial, helvetica, sans-serif;
+       font-size:17px;
+       padding-left:5%;
+     }
+     ul{
+       font-family:tahoma, arial, helvetica, sans-serif;
+       font-size:17px;
+       padding-left:6%;
+       list-style-type:upper-alpha;
+       margin-bottom:2%;
+        margin-top:2%;        
+      }
+      ul ol{
+      list-style-type:lower-alpha;
+          padding-bottom:2%; 
+      }
+      .inspiration{
+       font-family:Verdana, Arial, Helvetica, sans-serif; 
+       text-align:center;
+       margin-top:1%;
+       padding-right:3%;
+       font-size:18px;
+       padding-bottom:1%;
+      }
+      .headquarters{
+       font-family:Verdana, Arial, Helvetica, sans-serif; 
+       text-align:right;
+       font-size:18px;
+         margin-top:4%; 
+         padding-bottom:2%; 
+      }
+     .backtotop{
+    text-align:center;
+    font-size:16px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    margin-top:3%; 
+    padding-right:4%;
+     } 
+      a:link{
+      background-color:#BDB76B;
+       color:#003399;
+      }
+      a:hover{
+       background-color:#0000FF;
+       color:#FF3333;
+      }
+      .therightwrap{
+      float:right;
+      margin-right:10%; 
+      }
+      .thewrap{
+      float:right;
+      margin-right:15%;
+      margin-bottom:3%; 
+       margin-top:25%; 
+      }
+      .thewrapper{
+      float:right;
+      margin-right:10%;
+       margin-top:10%;  
+      }
+      .wrapped{
+      float:right;
+      margin-right:5%;
+       margin-bottom:8%;  
+      }

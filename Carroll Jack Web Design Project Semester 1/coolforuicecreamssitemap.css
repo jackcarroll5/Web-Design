@@ -1,0 +1,85 @@
+/* Site Map - Cool For U Ice Creams */
+
+#box{
+  margin-left:auto;
+  margin-right:auto;
+  border:3px solid #FFFFFF;
+   width:96%;
+   background-color:#33CCFF;
+       }
+       .heading{
+       background:#FF8C00;
+       width:100%;
+       text-align:center;
+       padding-top:1%;   
+       }
+       nav{
+        display:block;
+        width:55%;
+        text-align:center;
+        background-color:#FF9966;
+        margin-top:6%;
+        padding:8%;
+        margin-left:12%;
+       }
+       li{
+       list-style-type:none;
+       display:inline;
+       margin:3%;
+       font-size:22px;
+       padding-right:1%;
+       }
+        h1{
+    font-size:34px;
+    font-weight:bolder;
+    color:#990033;
+    text-align:center;
+    font-family:Arial, Verdana, Helvetica, sans-serif;
+    margin-top:3%;
+     margin-bottom:2%;
+     }
+     h2{
+     font-family:Arial, Verdana, Helvetica, sans-serif;
+     text-align:center;
+     font-size:28px;
+     margin-top:5%;
+      margin-bottom:3%;
+     color:#3300FF;
+     padding-right:2%;
+     }
+      .linking{
+    text-align:center;
+    font-size:21px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    margin-top:3%; 
+     }
+     .thanks{
+        font-family:MolengoRegular,arial,helvetica,sans-serif;
+        font-size:20px;
+        text-align:left;
+        padding-top:22%;
+        margin-top:23%;
+         margin-bottom:12%;
+         padding-left:6%;
+      }
+      .backtotop{
+    text-align:center;
+    font-size:16px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    margin-top:10%;
+    padding-right:4%; 
+     } 
+     a:link{
+       color:#6633CC;
+      }
+      a:hover{
+       background-color:#9933CC;
+       color:#FF9933;
+      }
+       .therightwrap{
+      float:right;
+      opacity:0.9;
+      margin-right:43%;
+      margin-top:6%;
+      margin-bottom:4%;
+      }
